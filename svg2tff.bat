@@ -1,0 +1,1 @@
+ffpython svg2tff.py generated/config.json
