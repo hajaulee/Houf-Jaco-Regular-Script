@@ -1,0 +1,1 @@
+ffpython extract_font.py new_fonts\ttf\ZiTiGuanJiaKaiTi-1.ttf new_fonts\ttf\ZiTiGuanJiaKaiTi-extracted.ttf
